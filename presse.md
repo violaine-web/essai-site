@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Presse
-permalink: /presse/
+title: Contact
+permalink: /contact/
 ---
 
-<h4>Mercredi 27 avril 2022</h4>
-<img class="fit-picture" src="../../../assets/img/article-telegramme.jpg"
-     alt="Article paru dans le Télégramme mercredi 27 avril 2022">
+
 
 
 
